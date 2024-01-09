@@ -1,0 +1,1 @@
+Nesse projeto, eu estava aprendendo a fazer um sistema com interfaces gráficas no JAVA NetBeans, e com as telas já produzidas, integrei o meu sistema com o banco de dados, utilizando o MySQL do Wampp server, com o sistema integrado ao BD, consegui simular o sistema de adição de produtos a uma padaria fictícia criada pelo meu grupo de trabalho.
